@@ -4,6 +4,6 @@ Sample express project with joi validator middleware, which can be used for all 
 
 ## packages used
 
-- body-parser
 - express
 - joi
+- body-parser
